@@ -1,0 +1,10 @@
+src/
+vendor/
+node_modules/
+gulpfile.js
+appsalon_mvc.sql
+package.json
+package-lock.json
+.DS_Store
+.envgit add README.md
+
