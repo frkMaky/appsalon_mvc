@@ -6,5 +6,5 @@ appsalon_mvc.sql
 package.json
 package-lock.json
 .DS_Store
-.envgit add README.md
+.env
 
